@@ -1,7 +1,6 @@
 # Movie Recommendation System
 This project is a movie recommendation system that suggests movies based on user preferences.
 Users can rate movies and specify genres, cast, or directors they prefer or dislike, and the program will recommend similar movies using a similarity score.
-The initial data was downloaded from https://www.kaggle.com/datasets/harshshinde8/movies-csv
 
 ## Features
 Movie filtering based on genre, cast, and director
