@@ -1,0 +1,19 @@
+# Ignore the virtual environment folder
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Poetry's virtual environment folder
+poetry.lock
+
+# Databases
+movies.csv
+
+# Poetry specific files
+poetry.lock
+.venv/
+
+# Mac OS metadata
+.DS_Store
